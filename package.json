@@ -32,7 +32,7 @@
     "@types/timeago": "^1.6.0",
     "bad-words": "^3.0.4",
     "color-convert": "^2.0.1",
-    "core-js": "^3.25.2",
+    "core-js": "^3.34.0",
     "dompurify": "^2.4.0",
     "flag-icon-css": "^3.5.0",
     "node-fetch": "^3.2.10",
