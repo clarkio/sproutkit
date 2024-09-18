@@ -33,7 +33,7 @@
     "bad-words": "^3.0.4",
     "color-convert": "^2.0.1",
     "core-js": "^3.25.2",
-    "dompurify": "^2.4.0",
+    "dompurify": "^2.5.4",
     "flag-icon-css": "^3.5.0",
     "node-fetch": "^3.2.10",
     "pinia": "^2.0.31",
