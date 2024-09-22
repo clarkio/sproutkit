@@ -39,7 +39,7 @@
     "pinia": "^2.0.31",
     "showdown": "^2.1.0",
     "simple-icons": "^7.21.0",
-    "socket.io-client": "^2.5.0",
+    "socket.io-client": "^4.8.0",
     "timeago.js": "^4.0.2",
     "ts-loader": "^8.4.0",
     "vue": "^3.2.39",
